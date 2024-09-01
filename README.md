@@ -4,6 +4,4 @@ Done my HSC from Govt. Dehli College.
 My Secondary school was St. Patrick High School.
 I am interested in travelling the world, enjoying all kinds of dishes and exploring the mysteries & beauties of the world.
 My strengths are my family, relatives and friends.
-![Screenshot of a comment on a GitHub issue showing an image, added in
-the Markdown, of an Octocat smiling and raising a
-tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![WhatsApp Image 2024-08-19 at 7 30 41 PM](https://github.com/user-attachments/assets/4e82c99a-187f-4920-afd6-4120291828ed)
