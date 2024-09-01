@@ -1,6 +1,6 @@
 #Introduction
 
--**I'm Muhammad Abdullah.**
+**-I'm Muhammad Abdullah.**
 -**Currently Studying at FAST National University.**
 -**Done my HSC from Govt. Dehli College.**
 -**My Secondary school was St. Patrick High School.**
